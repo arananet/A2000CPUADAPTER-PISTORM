@@ -26,6 +26,7 @@ https://es.aliexpress.com/item/32854325182.html?spm=a2g0o.detail.1000060.2.350fa
 
 # Update
 
+15-06-2021 JLCPCB complains that there is not board outline (dimension layer). I've remade.
 07-06-2021 - Initial release.
 
 # Note
