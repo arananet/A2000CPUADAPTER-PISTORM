@@ -17,6 +17,7 @@ Choose Vcut and gold enig finish on the PCB for a better contact.
 |Name |Value|Footprint |
 |-----|-----|--------- |
 |C1	  |22uf	|C0805   |
+|C2	  |100nf	|C0805   |
 
 In order to build your relocator, you will need 2 female pins. As for the pins, Here are the example references.
 
@@ -26,7 +27,10 @@ https://es.aliexpress.com/item/32854325182.html?spm=a2g0o.detail.1000060.2.350fa
 
 # Update
 
+21-08-2021 Increased powerline, just in case and added a fan connector.
+
 15-06-2021 JLCPCB complains that there is not board outline (dimension layer). I've remade.
+
 07-06-2021 - Initial release.
 
 # Note
