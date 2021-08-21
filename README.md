@@ -3,6 +3,7 @@
 This simple adapter allows to relocate the pistorm to use it on the A2000 CPU slot and be able to properly close the case. It has been designed specially to use with the PISTORM board (Claude's Schwarz design).
 
 # Images
+Picture might not correspond with the current gerbers.
 
 <img src="https://github.com/arananet/A2000CPUADAPTER-PISTORM/blob/main/images/1.png?raw=true" width="700">
 
